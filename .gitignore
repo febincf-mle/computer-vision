@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Virtual environments
+.virtualenv/
+
+# runs folder
+runs/*
+
+# model files
+object_detection/*.pt
+
 # C extensions
 *.so
 
